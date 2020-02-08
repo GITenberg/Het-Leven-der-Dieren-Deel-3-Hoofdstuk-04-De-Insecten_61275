@@ -1,5 +1,8 @@
 _repo: Het-Leven-der-Dieren-Deel-3-Hoofdstuk-04-De-Insecten_61275
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61275-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfred_Brehm
     - https://nl.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61275#Het-Leven-der-Dieren-Deel-3-Hoofdstuk-04-De-Insecten
 gutenberg_issued: '2020-01-30'
 gutenberg_type: Text
 identifiers:
